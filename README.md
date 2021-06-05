@@ -3,4 +3,3 @@ I've just tried out my hands to create a simple and responsive dashboard UI with
 
 https://user-images.githubusercontent.com/78914970/119399720-db2bf580-bcf6-11eb-8537-b95ccc012dfa.mp4
 
-Website link : https://ritwik-thakur06.github.io/my-dashboard-ui/
